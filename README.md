@@ -1,7 +1,7 @@
 # DS_ALGO
-<b>Data Structures and algorithms </b>
+<b>Data Structures and Algorithm's </b>
 <br>
-<b>Data Structres:</b>
+<b>Data Structre's:</b>
 <ul>
 <li>Arrays</li>
 <li>Stacks</li>
@@ -12,7 +12,7 @@
 <li>Graphs</li>
 </ul>
 
-<b>Sorting Algorithms</b>
+<b>Sorting Algorithm's</b>
 <ul>
 <li>Bubble Sort</li>
 <li>Selection Sort</li>
